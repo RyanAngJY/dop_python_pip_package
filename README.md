@@ -10,7 +10,9 @@ pipenv shell
 
 # Deploying new changes
 
-To deploy, run:
+## Step 1: Update the version number in setup.py
+
+## Step 2: Deploy
 
 ```
 make install_required

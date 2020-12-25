@@ -8,7 +8,7 @@ with open("requirements.txt", "r") as file:
 
 setup(
     name="dop_python_pip_package",
-    version="0.0.0",
+    version="0.0.4",
     author="Ryan",
     author_email="ryanang.jy@gmail.com",
     description="Python utils library",
