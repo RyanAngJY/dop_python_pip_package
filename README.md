@@ -1,5 +1,13 @@
 This is a sample python library that can be installed by other projects.
 
+# Making new changes
+
+Remember to run:
+
+```
+pipenv shell
+```
+
 # Deploying new changes
 
 To deploy, run:
