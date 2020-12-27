@@ -27,3 +27,7 @@ To install, run:
 ```
 pip install dop-python-pip-package
 ```
+
+# PyPI
+
+https://pypi.org/project/dop-python-pip-package/
